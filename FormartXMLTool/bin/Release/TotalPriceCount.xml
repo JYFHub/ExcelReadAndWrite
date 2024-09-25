@@ -1,0 +1,25 @@
+<Root>
+    <Table Name="Sheet1" CellWidth="4000,4000,7192,4000,4000,4000,4000">
+        <Row FirstRow="0" LastRow="1">
+            <Col FirstCol="0" LastCol="6" Width="0">家装工程清单</Col>
+        </Row>
+        <Row FirstRow="2" LastRow="3">
+            <Col FirstCol="0" LastCol="0" Width="0">编号</Col>
+            <Col FirstCol="1" LastCol="1" Width="0">材料名称</Col>
+            <Col FirstCol="2" LastCol="2" Width="200">品牌规格、备注说明</Col>
+            <Col FirstCol="3" LastCol="3" Width="0">单位</Col>
+            <Col FirstCol="4" LastCol="4" Width="0">数量</Col>
+            <Col FirstCol="5" LastCol="5" Width="0">单价(元)</Col>
+            <Col FirstCol="6" LastCol="6" Width="0">总价(元)</Col>
+        </Row>
+        <Row FirstRow="4" LastRow="4">
+            <Col FirstCol="0" LastCol="0" Width="0">1</Col>
+            <Col FirstCol="1" LastCol="1" Width="0">沙发</Col>
+            <Col FirstCol="2" LastCol="2" Width="0"></Col>
+            <Col FirstCol="3" LastCol="3" Width="0">套</Col>
+            <Col FirstCol="4" LastCol="4" Width="0">1</Col>
+            <Col FirstCol="5" LastCol="5" Width="0">1000</Col>
+            <Col FirstCol="6" LastCol="6" Width="0">1000</Col>
+        </Row>
+    </Table>
+</Root>

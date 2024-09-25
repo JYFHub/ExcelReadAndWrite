@@ -1,0 +1,11 @@
+F:\C#\ExcelReadAndWrite\ExcelReadAndWrite\obj\x86\Debug\ExcelReadAndWrite.csprojResolveAssemblyReference.cache
+F:\C#\ExcelReadAndWrite\ExcelReadAndWrite\bin\Debug\CheckSwitchPoint.exe
+F:\C#\ExcelReadAndWrite\ExcelReadAndWrite\bin\Debug\CheckSwitchPoint.pdb
+F:\C#\ExcelReadAndWrite\ExcelReadAndWrite\obj\x86\Debug\CheckSwitchPoint.exe
+F:\C#\ExcelReadAndWrite\ExcelReadAndWrite\obj\x86\Debug\CheckSwitchPoint.pdb
+J:\C#\ExcelReadAndWrite\ExcelReadAndWrite\bin\Debug\CheckSwitchPoint.exe
+J:\C#\ExcelReadAndWrite\ExcelReadAndWrite\bin\Debug\CheckSwitchPoint.pdb
+J:\C#\ExcelReadAndWrite\ExcelReadAndWrite\obj\x86\Debug\ExcelReadAndWrite.csproj.CoreCompileInputs.cache
+J:\C#\ExcelReadAndWrite\ExcelReadAndWrite\obj\x86\Debug\ExcelReadAndWrite.csproj.CopyComplete
+J:\C#\ExcelReadAndWrite\ExcelReadAndWrite\obj\x86\Debug\CheckSwitchPoint.exe
+J:\C#\ExcelReadAndWrite\ExcelReadAndWrite\obj\x86\Debug\CheckSwitchPoint.pdb

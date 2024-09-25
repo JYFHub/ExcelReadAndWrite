@@ -1,0 +1,10 @@
+F:\C#\ExcelReadAndWrite\HealthProgram\bin\Debug\HealthProgram.exe
+F:\C#\ExcelReadAndWrite\HealthProgram\bin\Debug\HealthProgram.pdb
+F:\C#\ExcelReadAndWrite\HealthProgram\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\C#\ExcelReadAndWrite\HealthProgram\bin\Debug\NPOI.dll
+F:\C#\ExcelReadAndWrite\HealthProgram\bin\Debug\NPOI.OOXML.dll
+F:\C#\ExcelReadAndWrite\HealthProgram\bin\Debug\NPOI.OpenXml4Net.dll
+F:\C#\ExcelReadAndWrite\HealthProgram\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\C#\ExcelReadAndWrite\HealthProgram\obj\x86\Debug\HealthProgram.csprojResolveAssemblyReference.cache
+F:\C#\ExcelReadAndWrite\HealthProgram\obj\x86\Debug\HealthProgram.exe
+F:\C#\ExcelReadAndWrite\HealthProgram\obj\x86\Debug\HealthProgram.pdb

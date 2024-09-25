@@ -1,0 +1,12 @@
+K:\C#\ExcelReadAndWrite\ConvertHololensTool\bin\Debug\ConvertHololensTool.exe
+K:\C#\ExcelReadAndWrite\ConvertHololensTool\bin\Debug\ConvertHololensTool.pdb
+K:\C#\ExcelReadAndWrite\ConvertHololensTool\bin\Debug\ICSharpCode.SharpZipLib.dll
+K:\C#\ExcelReadAndWrite\ConvertHololensTool\bin\Debug\NPOI.dll
+K:\C#\ExcelReadAndWrite\ConvertHololensTool\bin\Debug\NPOI.OOXML.dll
+K:\C#\ExcelReadAndWrite\ConvertHololensTool\bin\Debug\NPOI.OpenXml4Net.dll
+K:\C#\ExcelReadAndWrite\ConvertHololensTool\bin\Debug\NPOI.OpenXmlFormats.dll
+K:\C#\ExcelReadAndWrite\ConvertHololensTool\obj\Debug\ConvertHololensTool.csprojAssemblyReference.cache
+K:\C#\ExcelReadAndWrite\ConvertHololensTool\obj\Debug\ConvertHololensTool.csproj.CoreCompileInputs.cache
+K:\C#\ExcelReadAndWrite\ConvertHololensTool\obj\Debug\ConvertHololensTool.csproj.CopyComplete
+K:\C#\ExcelReadAndWrite\ConvertHololensTool\obj\Debug\ConvertHololensTool.exe
+K:\C#\ExcelReadAndWrite\ConvertHololensTool\obj\Debug\ConvertHololensTool.pdb

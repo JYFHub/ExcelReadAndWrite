@@ -1,0 +1,12 @@
+K:\C#\ExcelReadAndWrite\ConvertExcelToolAsset\bin\Release\ConvertExcelToolAsset.exe
+K:\C#\ExcelReadAndWrite\ConvertExcelToolAsset\bin\Release\ConvertExcelToolAsset.pdb
+K:\C#\ExcelReadAndWrite\ConvertExcelToolAsset\bin\Release\ICSharpCode.SharpZipLib.dll
+K:\C#\ExcelReadAndWrite\ConvertExcelToolAsset\bin\Release\NPOI.dll
+K:\C#\ExcelReadAndWrite\ConvertExcelToolAsset\bin\Release\NPOI.OOXML.dll
+K:\C#\ExcelReadAndWrite\ConvertExcelToolAsset\bin\Release\NPOI.OpenXml4Net.dll
+K:\C#\ExcelReadAndWrite\ConvertExcelToolAsset\bin\Release\NPOI.OpenXmlFormats.dll
+K:\C#\ExcelReadAndWrite\ConvertExcelToolAsset\obj\Release\ConvertExcelToolAsset.csprojAssemblyReference.cache
+K:\C#\ExcelReadAndWrite\ConvertExcelToolAsset\obj\Release\ConvertExcelToolAsset.csproj.CoreCompileInputs.cache
+K:\C#\ExcelReadAndWrite\ConvertExcelToolAsset\obj\Release\ConvertExcelToolAsset.csproj.CopyComplete
+K:\C#\ExcelReadAndWrite\ConvertExcelToolAsset\obj\Release\ConvertExcelToolAsset.exe
+K:\C#\ExcelReadAndWrite\ConvertExcelToolAsset\obj\Release\ConvertExcelToolAsset.pdb

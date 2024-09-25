@@ -1,0 +1,12 @@
+K:\C#\ExcelReadAndWrite\ConvertSwitchPointAsset\bin\Debug\ConvertSwitchPointAsset.exe
+K:\C#\ExcelReadAndWrite\ConvertSwitchPointAsset\bin\Debug\ConvertSwitchPointAsset.pdb
+K:\C#\ExcelReadAndWrite\ConvertSwitchPointAsset\bin\Debug\ICSharpCode.SharpZipLib.dll
+K:\C#\ExcelReadAndWrite\ConvertSwitchPointAsset\bin\Debug\NPOI.dll
+K:\C#\ExcelReadAndWrite\ConvertSwitchPointAsset\bin\Debug\NPOI.OOXML.dll
+K:\C#\ExcelReadAndWrite\ConvertSwitchPointAsset\bin\Debug\NPOI.OpenXml4Net.dll
+K:\C#\ExcelReadAndWrite\ConvertSwitchPointAsset\bin\Debug\NPOI.OpenXmlFormats.dll
+K:\C#\ExcelReadAndWrite\ConvertSwitchPointAsset\obj\Debug\ConvertSwitchPointAsset.csproj.CoreCompileInputs.cache
+K:\C#\ExcelReadAndWrite\ConvertSwitchPointAsset\obj\Debug\ConvertSwitchPointAsset.exe
+K:\C#\ExcelReadAndWrite\ConvertSwitchPointAsset\obj\Debug\ConvertSwitchPointAsset.pdb
+K:\C#\ExcelReadAndWrite\ConvertSwitchPointAsset\obj\Debug\ConvertSwitchPointAsset.csproj.AssemblyReference.cache
+K:\C#\ExcelReadAndWrite\ConvertSwitchPointAsset\obj\Debug\ConvertS.DE26E346.Up2Date

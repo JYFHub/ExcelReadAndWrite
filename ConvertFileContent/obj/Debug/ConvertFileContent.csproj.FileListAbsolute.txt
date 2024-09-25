@@ -1,0 +1,9 @@
+K:\C#\ExcelReadAndWrite\ConvertFileContent\obj\Debug\ConvertFileContent.csprojAssemblyReference.cache
+K:\C#\ExcelReadAndWrite\ConvertFileContent\obj\Debug\ConvertFileContent.csproj.CoreCompileInputs.cache
+K:\C#\ExcelReadAndWrite\ConvertFileContent\bin\Debug\ConvertFileContent.exe
+K:\C#\ExcelReadAndWrite\ConvertFileContent\bin\Debug\ConvertFileContent.pdb
+K:\C#\ExcelReadAndWrite\ConvertFileContent\obj\Debug\ConvertFileContent.exe
+K:\C#\ExcelReadAndWrite\ConvertFileContent\obj\Debug\ConvertFileContent.pdb
+K:\C#\ExcelReadAndWrite\ConvertFileContent\bin\Debug\Newtonsoft.Json.dll
+K:\C#\ExcelReadAndWrite\ConvertFileContent\bin\Debug\Newtonsoft.Json.xml
+K:\C#\ExcelReadAndWrite\ConvertFileContent\obj\Debug\ConvertFileContent.csproj.CopyComplete

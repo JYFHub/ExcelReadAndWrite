@@ -1,0 +1,12 @@
+K:\C#\ExcelReadAndWrite\FormartXMLTool\bin\Release\FormartXMLTool.exe
+K:\C#\ExcelReadAndWrite\FormartXMLTool\bin\Release\FormartXMLTool.pdb
+K:\C#\ExcelReadAndWrite\FormartXMLTool\bin\Release\ICSharpCode.SharpZipLib.dll
+K:\C#\ExcelReadAndWrite\FormartXMLTool\bin\Release\NPOI.dll
+K:\C#\ExcelReadAndWrite\FormartXMLTool\bin\Release\NPOI.OOXML.dll
+K:\C#\ExcelReadAndWrite\FormartXMLTool\bin\Release\NPOI.OpenXml4Net.dll
+K:\C#\ExcelReadAndWrite\FormartXMLTool\bin\Release\NPOI.OpenXmlFormats.dll
+K:\C#\ExcelReadAndWrite\FormartXMLTool\obj\Release\FormartXMLTool.csproj.AssemblyReference.cache
+K:\C#\ExcelReadAndWrite\FormartXMLTool\obj\Release\FormartXMLTool.csproj.CoreCompileInputs.cache
+K:\C#\ExcelReadAndWrite\FormartXMLTool\obj\Release\FormartXMLTool.csproj.CopyComplete
+K:\C#\ExcelReadAndWrite\FormartXMLTool\obj\Release\FormartXMLTool.exe
+K:\C#\ExcelReadAndWrite\FormartXMLTool\obj\Release\FormartXMLTool.pdb
